@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import JobSection from "./components/JobSection/JobSection";
 import HowItWorks from "./components/HowItWorks/HowItWorks";
+import CompaniesSection from "./components/CompaniesSection/CompaniesSection";
 
 const App = () => {
   return (
@@ -17,10 +18,10 @@ const App = () => {
           <Hero />
           {/* Featured Jobs Section */}
           <JobSection />
-           {/* How It Works Section */}
-           <HowItWorks />
-          
-         
+          {/* How It Works Section */}
+          <HowItWorks />
+          {/* Top Companies Section */}
+          <CompaniesSection />
         </main>
       </div>
     </ThemeProvider>
