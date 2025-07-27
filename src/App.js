@@ -6,6 +6,7 @@ import Hero from "./components/Hero/Hero";
 import JobSection from "./components/JobSection/JobSection";
 import HowItWorks from "./components/HowItWorks/HowItWorks";
 import CompaniesSection from "./components/CompaniesSection/CompaniesSection";
+import Testimonials from "./components/Testimonials/Testimonials";
 import Footer from "./components/Footer/Footer";
 
 const App = () => {
@@ -23,6 +24,8 @@ const App = () => {
           <HowItWorks />
           {/* Top Companies Section */}
           <CompaniesSection />
+          {/* Testimonials Section */}
+          <Testimonials/>
         </main>
         {/* Footer */}
         <Footer />

@@ -349,7 +349,7 @@ const Hero = () => {
           <HeadingText>
             <div>Search, Apply &</div>
             <div>
-              Get Your <span className="highlight">Dream Job</span>
+            Find your <span className="highlight">Dream Job</span>
             </div>
           </HeadingText>
           <DecorativeUnderline />
