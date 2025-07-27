@@ -6,6 +6,7 @@ import Hero from "./components/Hero/Hero";
 import JobSection from "./components/JobSection/JobSection";
 import HowItWorks from "./components/HowItWorks/HowItWorks";
 import CompaniesSection from "./components/CompaniesSection/CompaniesSection";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
@@ -23,6 +24,9 @@ const App = () => {
           {/* Top Companies Section */}
           <CompaniesSection />
         </main>
+        {/* Footer */}
+        <Footer />
+
       </div>
     </ThemeProvider>
   );
