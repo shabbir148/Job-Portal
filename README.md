@@ -1,7 +1,7 @@
 # Job Portal UI
 
 A modern, responsive job portal website built with React and Vite, featuring a clean and intuitive user interface for job seekers and employers.
-Live Demo: [Your Deployment URL Here] 
+Live Demo: [Live](https://job-portal-sage-phi.vercel.app/) 
 
 ## 🎯 Project Overview
 
